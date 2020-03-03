@@ -1,4 +1,4 @@
-# Freifunk Herford SaltStack Configuration
+# Freifunk OWL SaltStack Configuration
 
 Anleitung unter <https://freifunk-herford.github.io/ffhf-salt/> lesen.
 
